@@ -1,2 +1,2 @@
-# schlepp
-App to manage my daily schlepp
+# schlep
+App to manage my daily schlep
